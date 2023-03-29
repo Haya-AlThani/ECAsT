@@ -1,4 +1,4 @@
-# ECAsT
+# ECAsT: A multi-turn conversation paraphrase dataset.
 Expanded-CAsT: A multi-turn conversation paraphrase dataset.
 
 Expanded-CAsT (ECAsT) is a multi-turn paraphrase dataset for the paper **"ECAsT: a large dataset for conversational search and an evaluation of metric robustness"**. The dataset is built using [TREC CAsT](https://github.com/daltonj/treccastweb) conversations. There are currently very few datasets available for training and evaluating conversational search systems, and ECAsT aims to address this limitation by augmenting the original dataset with paraphrased turns.
@@ -14,5 +14,5 @@ The dataset comprises three columns:
 ## Statistics
 By paraphrasing the CAsT dataset, ECAsT expands it by over 665\%, resulting in a new dataset consisting of 9,214 turns over 131 conversation topics. On average, there are 7.6 paraphrases per original CAsT turn.
 
-##Citation
+## Citation
 Please use the following citation when referencing or using this dataset:
