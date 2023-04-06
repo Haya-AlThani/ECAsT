@@ -17,4 +17,4 @@ By paraphrasing the CAsT dataset, ECAsT expands it by over 665\%, resulting in a
 Please use the following citation when referencing or using this dataset:
 
 Al-Thani H, Jansen BJ, Elsayed T. 2023. ECAsT: a large dataset for conversational search and an evaluation of
-metric robustness. **PeerJ Comput. Sci.** 9:e1328 http://doi.org/10.7717/peerj-cs.1328
+metric robustness. *PeerJ Comput. Sci.* 9:e1328 http://doi.org/10.7717/peerj-cs.1328
